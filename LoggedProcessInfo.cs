@@ -4,7 +4,7 @@ using System.IO;
 using System.Threading;
 using NLog;
 
-namespace Thorium_Processes
+namespace Thorium.Processes
 {
     public class LoggedProcessInfo : IDisposable
     {

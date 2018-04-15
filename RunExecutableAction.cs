@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace Thorium_Processes
+namespace Thorium.Processes
 {
     public class RunExecutableAction
     {

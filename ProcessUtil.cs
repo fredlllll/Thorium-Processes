@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Thorium_Processes
+namespace Thorium.Processes
 {
     public static class ProcessUtil
     {
